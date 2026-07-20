@@ -1247,6 +1247,8 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 
 - **[Mastra](https://github.com/mastra-ai/mastra)** — TypeScript-native AI agent framework for web developers. Workflow automation with typed tools and integrations. MIT.
 
+- **[AgentGrid](https://agentgrid.sh)** — Desktop app (macOS, Linux, Windows) providing an infinite zoomable canvas for orchestrating multiple AI coding agents in parallel. A master orchestrator pane spawns role-based worker agents (builder, QA, reviewer), each optionally running in its own git worktree, alongside integrated terminals and Playwright browser panes. Runs Claude Agent SDK and OpenAI Codex SDK. Closed-source; free tier, Pro $20/mo, Team $50/mo.
+
 - **[Kimi Claw](https://www.kimi.com/bot)** - OpenClaw is an AI assistant with personality and memory. Kimi deploys it to the cloud for you in one click—no complex setup, online 24/7.
 
 - **[MiniMax](https://www.minimaxi.com/)** — Full-stack AI platform focused on multimodal agents and consumer-scale deployment  
