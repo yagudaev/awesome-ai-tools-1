@@ -1,1 +1,1 @@
-@/workspace/readme-content-for-mcp.txt
+file:///workspace/readme-content-for-mcp.txt
